@@ -1,6 +1,6 @@
 # Geodat AI Ltd
 
-Geodat AI develops geospatial data science, analytics, and AI-driven platforms for understanding and improving spatial systems.
+Geodat AI develops geospatial data science, spatial analytics, and AI-driven platforms for understanding and improving spatial systems.
 
 Our work focuses on:
 
