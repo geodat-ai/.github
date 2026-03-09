@@ -31,6 +31,8 @@ The Geodat AI platform is built around:
 - Azure Container Apps
 - Azure AI Services
 
-## Website
+## Engineering and development
 
-https://www.geodat.ai
+The Geodat AI engineering platform is managed through this GitHub organisation.
+
+Website: https://www.geodat.ai
