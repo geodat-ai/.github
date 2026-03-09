@@ -1,2 +1,2 @@
 # .github
-Organisation profile and public documentation for GeoDat AI.
+Organisation profile and public documentation for Geodat AI.
