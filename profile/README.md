@@ -1,9 +1,10 @@
-# GeoDat AI
+# Geodat AI Ltd
 
 GeoDat AI develops geospatial data science, analytics, and AI-driven platforms for understanding and improving spatial systems.
 
 Our work focuses on:
 
+- digital cartography
 - geospatial analytics and modelling
 - public transport accessibility and mobility analysis
 - spatial data infrastructure
@@ -12,7 +13,7 @@ Our work focuses on:
 
 ## Platform
 
-The GeoDat AI platform is built around:
+The Geodat AI platform is built around:
 
 - containerised services
 - cloud infrastructure on Microsoft Azure
