@@ -1,6 +1,10 @@
 # Geodat AI Ltd
 
-Geodat AI builds geospatial data platforms, spatial analytics systems, and cloud-native infrastructure for decision support and policy analysis.
+Geodat AI builds geospatial data platforms, spatial analytics systems, and cloud-native infrastructure for decision support, research, and policy analysis.
+
+We develop scalable spatial data infrastructure, reproducible analytics workflows, and AI-enabled geospatial applications across sectors including the built and natural environment, public policy, business intelligence, health, and transport.
+
+## Areas of expertise
 
 Our work focuses on:
 
